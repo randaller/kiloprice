@@ -4,4 +4,4 @@ A very simple and naive android app to calculate 1 kilogram/liter price using ca
 ### APK for Android
 - Open https://github.com/randaller/kiloprice/actions/
 - Click on the latest action run on the top
-- Scroll down to Artifacts and download artifact zip with apk file
+- Scroll down to Artifacts and download app-release.zip with apk file
